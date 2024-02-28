@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28cb233-97ca-4af7-999d-d6f475598587" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/LecturaTeclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/LecturaTeclado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/CrearCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/CrearCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/CrearPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/CrearPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/MostrarCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/MostrarCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/OperarCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/controller/cuentas/OperarCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaAhorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaAhorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorrienteEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorrienteEmpresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorrientePersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/CuentaCorrientePersonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/Imprimible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/Imprimible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/models/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alvarobajo/banco/view/Menu.java" afterDir="false" />
-    </list>
+    <list default="true" id="f28cb233-97ca-4af7-999d-d6f475598587" name="Changes" comment="terminadoo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,11 +95,32 @@
       <workItem from="1708280132523" duration="2489000" />
       <workItem from="1708425548215" duration="56000" />
       <workItem from="1709063125058" duration="381000" />
-      <workItem from="1709115776509" duration="15787000" />
+      <workItem from="1709115776509" duration="16092000" />
     </task>
+    <task id="LOCAL-00001" summary="terminadoo">
+      <option name="closed" value="true" />
+      <created>1709157591797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709157591797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="terminadoo">
+      <option name="closed" value="true" />
+      <created>1709157597971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709157597971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="terminadoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminadoo" />
   </component>
 </project>
